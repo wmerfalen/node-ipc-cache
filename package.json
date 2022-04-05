@@ -1,0 +1,26 @@
+{
+  "name": "ipc-cache",
+  "version": "1.0.0",
+  "description": "IPC file socket https cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmerfalen/node-ipc-cache.git"
+  },
+  "keywords": [
+    "ICP",
+    "file",
+    "socket",
+    "https",
+    "cache"
+  ],
+  "author": "William Merfalen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmerfalen/node-ipc-cache/issues"
+  },
+  "homepage": "https://github.com/wmerfalen/node-ipc-cache#readme"
+}
