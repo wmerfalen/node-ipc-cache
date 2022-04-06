@@ -4,7 +4,8 @@
   "description": "IPC file socket https cache",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run do-tests",
+    "do-tests": "node ./tests/index.js"
   },
   "repository": {
     "type": "git",
